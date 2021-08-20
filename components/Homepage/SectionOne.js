@@ -5,6 +5,7 @@ import Image from 'next/image';
 const Wrapper = styled.section`
   width: 100%;
   height: 70vh;
+  margin: 7rem auto;
 
   .container {
     height: 100%;
