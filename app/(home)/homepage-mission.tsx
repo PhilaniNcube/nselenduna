@@ -7,7 +7,7 @@ const HomePageMission = () => {
 							<h2 className="mb-3 text-2xl font-medium lg:text-4xl text-brand">
 								Our Mission
 							</h2>
-							<p className="text-sm">
+							<p className="text-md md:text-lg">
 								Our mission is to empower our clients to thrive in the dynamic
 								and competitive tourism, hospitality and conservation industry
 								by delivering tailored consulting services, actionable insights,
